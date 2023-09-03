@@ -1,0 +1,2 @@
+MundoZ,True,lk.maia0505@outlook.com
+duda,False,ed
