@@ -1,6 +1,11 @@
 # Algoritmos de modularização em pseudocódigo
 
 ## ***Sistema de gerenciamento de jogos de RPG***
+O projeto tem como objetivo criar uma aplicação que auxilie na criação, organização e gerenciamento de mundos para jogos de RPG. Os jogadores podem criar seus próprios mundos, adicionar personagens, locais, itens e enredos, além de poder compartilhar essas informações com outros jogadores.
+
+## Requisitos
+
+- Python 3.x
 
 ---
 
