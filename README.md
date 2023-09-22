@@ -1,20 +1,6 @@
-# Computacional Thinking
-
 # Algoritmos de modularização em pseudocódigo
 
-## Nome do trabalho:
-
-***Sistema de gerenciamento de jogos de RPG***
-
----
-
-## Integrantes do grupo:
-
-Lucas Maia de Morais RA: 44267
-
-Edison Felipe Neves Moreira RA: 44444
-
-Maria Eduarda RA: 45432
+## ***Sistema de gerenciamento de jogos de RPG***
 
 ---
 
